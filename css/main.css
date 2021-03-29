@@ -1,0 +1,62 @@
+body {
+    color: #000000;
+    background: #FFFFFF
+}
+
+
+/*Profile pic styles*/
+
+#profilephoto {
+    border-radius: 50%;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    width: 30%;
+    height: auto;
+    box-shadow: 5px 10px #3e3828;
+}
+
+
+/*rounded buttons*/
+
+.button {
+    background-color: #1565c0;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 3px 2px;
+    box-shadow: 5px 5px #0e2e54;
+}
+
+.button1 {
+    border-radius: 2px;
+}
+
+.button2 {
+    border-radius: 4px;
+}
+
+.button3 {
+    border-radius: 8px;
+}
+
+.button4 {
+    border-radius: 12px;
+}
+
+.button5 {
+    border-radius: 50%;
+}
+
+#navigation-bar {
+    align-items: ;
+}
+
+#NameAndPhoto {
+    align-content: space-around;
+}

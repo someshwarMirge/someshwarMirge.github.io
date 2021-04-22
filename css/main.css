@@ -59,4 +59,8 @@ body {
 
 #NameAndPhoto {
     align-content: space-around;
+    width: 100%;
+    align-content: center;
+    padding: 3rem;
+    margin: 1rem;
 }
